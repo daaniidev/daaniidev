@@ -110,6 +110,55 @@ Web de nicho sobre el eclipse solar total en España 2026. Guías por ciudad y h
 
 ---
 
+
+
+V2 
+
+
+-- 
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3D,50:0099CC,100:00C6FF&height=180&section=header&text=Hey,%20soy%20Dani&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20%26%20estudiante%20DAM%20%7C%20Zaragoza,%20Espa%C3%B1a&descAlignY=58&descSize=18" />
+
+</div>
+
+### Sobre mí
+
+Soy estudiante de primer año de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en CEFOR Izquierdo, en Zaragoza. Fuera de clase construyo cosas de verdad: he desarrollado sistemas web y herramientas propias impulsadas por IA, y diseño y despliego skills personalizadas para resolver problemas concretos de principio a fin.
+
+Cuento con la certificación en IA Generativa de Santander/Google, y me muevo bien tanto escribiendo código como diseñando el producto alrededor de él: pensando en para quién es, cómo se distribuye y cómo se sostiene en el tiempo.
+
+- 🔭 Ahora mismo, aprendiendo construyendo: cada proyecto es una excusa para dominar algo nuevo.
+- 🌱 Interesado en IA aplicada, automatización y prompt engineering.
+- 📫 Puedes encontrar más sobre mí en **daaniidev.xyz**.
+
+<br>
+
+### Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-00C6FF?style=for-the-badge&logo=openjdk&logoColor=062B3D)
+![Python](https://img.shields.io/badge/Python-00C6FF?style=for-the-badge&logo=python&logoColor=062B3D)
+![MySQL](https://img.shields.io/badge/MySQL-00C6FF?style=for-the-badge&logo=mysql&logoColor=062B3D)
+![Bash](https://img.shields.io/badge/Bash-00C6FF?style=for-the-badge&logo=gnubash&logoColor=062B3D)
+![JavaScript](https://img.shields.io/badge/JavaScript-00C6FF?style=for-the-badge&logo=javascript&logoColor=062B3D)
+![HTML5](https://img.shields.io/badge/HTML5-00C6FF?style=for-the-badge&logo=html5&logoColor=062B3D)
+![CSS3](https://img.shields.io/badge/CSS3-00C6FF?style=for-the-badge&logo=css3&logoColor=062B3D)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0099CC,100:062B3D&height=120&section=footer" />
+
+</div>
+
+---
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/daanidev.xyz-🚧%20WIP-00d4d4?style=for-the-badge&labelColor=0d1117)](https://daanidev.xyz)
